@@ -1,2 +1,1 @@
-# Python-Fun-Time
-Fun-time in python.
+Personal random ah stuff
